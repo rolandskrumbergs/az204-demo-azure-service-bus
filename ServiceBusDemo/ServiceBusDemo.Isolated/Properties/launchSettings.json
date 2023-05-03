@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ServiceBusDemo.Isolated": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7187",
+      "launchBrowser": false
+    }
+  }
+}
